@@ -23,4 +23,3 @@ Caros amigos, o consenso sobre a necessidade de qualificação assume importante
     <li><a href="#">Descrição do projeto</a></li>
 </ul>
 
-#### continua
