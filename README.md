@@ -23,4 +23,49 @@ Caros amigos, o consenso sobre a necessidade de qualificação assume importante
     <li><a href="#">Descrição do projeto</a></li>
 </ul>
 
-#### continua
+## Status do Projeto
+
+<h4 align="center">
+ Em construção :rocket:
+</h4>
+
+## Features
+
+- [x] Template Readme
+- [ ] Exemplos de uso Badges
+
+## Pré-requisitos
+
+- Instalação [VSCode](https://code.visualstudio.com/)
+- Instação do [Git](https://git-scm.com/)
+- Conhecimentos de sintaxes markdown
+- Conhecimentos de sintaxes html
+
+## Editando a Documentação
+
+```bash
+    # Clone do respositório
+    $ git clone <path-repositorio>
+
+    # Entrar na pasta do repositório
+    $ cd <path-repositorio>
+
+    # Abrir o Vscode no path
+    $ code .
+```
+
+## Mapa do Projeto
+
+```bash
++---img             // Pasta com imagens do README
++---temp            // Pasta temp para geração tree
+    +---temp-2      // Pasta temp para geração tree
+    +---temp-3      // Pasta temp para geração tree    
+```
+
+## Tecnologias Utilizadas
+
+As seguintes tecnologias foram utilizadas para desenvolver este README:
+
+- [Markdown](https://www.markdownguide.org/)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
